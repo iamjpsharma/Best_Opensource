@@ -6,9 +6,10 @@ Chat ( Slack, Microsoft Teams, Discord)
  - https://github.com/RocketChat/Rocket.Chat
 
 AUTOMATION (Open source home automation)
-- https://github.com/home-assistant/core
+ - https://github.com/home-assistant/core
 
-
+DOCUMENTATION (Notion)
+ - https://github.com/AppFlowy-IO/appflowy (https://www.appflowy.io/)
 
 
 
